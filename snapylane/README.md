@@ -2,15 +2,15 @@
 
 Repository cermin resmi distribusi binary executables SnapyLane oleh snapywm.
 
-## ?? Versi Terbaru (v0.1.5)
+## ?? Versi Terbaru (v0.1.6)
 
 - **Setup Installer GUI**: [SnapyLane_Setup.exe](latest/SnapyLane_Setup.exe) (Direkomendasikan)
 - **Standalone Executable**: [snapylane-latest.exe](latest/snapylane-latest.exe)
 - **Versi Aktif**: $Version
 
-### SHA-256 Checksums (v0.1.5)
-- \SnapyLane-v0.1.5-setup.exe\: \$setupHash\
-- \SnapyLane-v0.1.5-windows-x64.exe\: \$appHash\
+### SHA-256 Checksums (v0.1.6)
+- \SnapyLane-v0.1.6-setup.exe\: \$setupHash\
+- \SnapyLane-v0.1.6-windows-x64.exe\: \$appHash\
 
 ## ?? Arsip Versi Sebelumnya
 Tersedia di direktori [archive/](archive/).
