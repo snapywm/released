@@ -1,10 +1,10 @@
 {
-    "version":  "0.1.3",
-    "published_at":  "2026-11-26T11:53:46Z",
+    "version":  "0.1.4",
+    "published_at":  "2026-11-27T10:55:28Z",
     "installer_url":  "https://github.com/snapywm/released/raw/main/snapylane/latest/SnapyLane_Setup.exe",
     "portable_url":  "https://github.com/snapywm/released/raw/main/snapylane/latest/snapylane-latest.exe",
-    "sha256_setup":  "ACA9E21D4EB4BE010D63135059D6737DC96288897ED8DEB475C5DBF7712824E7",
-    "sha256_portable":  "7C6B457CECB2604A2762613205559EEAF7403C1412EF5B2D1D2545CEFB217F60",
+    "sha256_setup":  "18BE02B04E1B1C85D6CA5CE6532B8BA1E9084FDC7E4510345BE7E5E712F76AC6",
+    "sha256_portable":  "95A371F9B47954737251FE3A185C2927B5DB142FF41E7B33601E6ED2BD0C5EC3",
     "fallback_installer_url":  "https://snapylane.snapywm.my.id/download/SnapyLane_Setup.exe",
     "fallback_portable_url":  "https://snapylane.snapywm.my.id/download/snapylane-latest.exe"
 }
